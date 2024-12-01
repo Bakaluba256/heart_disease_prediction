@@ -88,5 +88,3 @@ npm start
 
 3. **Access the application:**
    Open your web browser and navigate to http://localhost:3000.
-
-# heart_disease_predictor
